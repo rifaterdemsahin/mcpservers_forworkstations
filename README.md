@@ -2,7 +2,7 @@
 
 > A comprehensive guide and collection of Model Context Protocol (MCP) servers for VS Code, featuring email integration, setup guides, and practical examples.
 
-## 🚀 What is MCP?
+## 🚀 What is MCP ?
 
 Model Context Protocol (MCP) allows you to extend AI assistants like Claude with additional capabilities through local servers. Think of it as plugins that run on your machine and give Claude superpowers!
 
